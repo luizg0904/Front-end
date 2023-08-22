@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692709098 source:c:\projetos\testewhile\testewhile.c
+	<stdio.h>
+	<stdlib.h>
+
