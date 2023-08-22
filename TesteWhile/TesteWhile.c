@@ -4,11 +4,11 @@
 int main()
 {
     int i=0;
-    while(i<10)
+    do
     {
         printf("Hello world!\n");
         i++;
-    }
+    }while(i<10);
     printf("\n\nSAI DO FOR\n\n");
     return 0;
 }
